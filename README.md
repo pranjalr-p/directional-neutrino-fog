@@ -69,12 +69,6 @@ pip install numpy matplotlib scipy tqdm
 
 ## Usage
 
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-```
-
 Install dependencies:
 ```bash
 pip install numpy matplotlib scipy tqdm
